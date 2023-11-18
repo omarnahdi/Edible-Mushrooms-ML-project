@@ -1,6 +1,5 @@
-# Edible-Mushrooms-ML-project
+# Mushroom Classifier Project 🍄🤖
 
-Mushroom Classifier Project 🍄🤖
 Welcome to the Mushroom Classifier project repository! This machine learning endeavor utilizes Support Vector Machines (SVM) to predict whether a mushroom is edible or poisonous based on its distinct features.
 
 📊 Key Features:
@@ -10,7 +9,8 @@ Real-World Application: Explore the practical application of machine learning in
 Open for Contribution: This project is open to contributions! Whether you're a seasoned ML pro or just getting started, your insights are valuable.
 
 💻 Access the Code:
-[Link to the Jupyter Notebook](https://colab.research.google.com/drive/1Q2mccoc_uUUzNMseaEZMBJ0Wk2zSbBMX?usp=sharing)
+[Link to the Jupyter Notebook]
+(https://colab.research.google.com/drive/1Q2mccoc_uUUzNMseaEZMBJ0Wk2zSbBMX?usp=sharing)
 
 🌐 How to Contribute:
 

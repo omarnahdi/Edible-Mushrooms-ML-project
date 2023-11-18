@@ -5,7 +5,9 @@ Welcome to the Mushroom Classifier project repository! This machine learning end
 📊 Key Features:
 
 Machine Learning Model: Implemented a robust SVM model for accurate mushroom classification.
+
 Real-World Application: Explore the practical application of machine learning in predicting mushroom edibility.
+
 Open for Contribution: This project is open to contributions! Whether you're a seasoned ML pro or just getting started, your insights are valuable.
 
 💻 Access the Code:
@@ -14,7 +16,9 @@ Open for Contribution: This project is open to contributions! Whether you're a s
 
 🌐 How to Contribute:
 
-1.Fork the repository
-2.Make your improvements or add features
+1. Fork the repository
+
+2. Make your improvements or add features
+
 Submit a pull request
 Let's cultivate knowledge together! Feel free to explore the code, contribute, and join the conversation.

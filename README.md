@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Colab-Notebook?label=Colab-Notebook&color=%23FF5733&link=https%3A%2F%2Fcolab.research.google.com%2Fdrive%2F1Q2mccoc_uUUzNMseaEZMBJ0Wk2zSbBMX%3Fusp%3Dsharing)
+[![Static Badge](https://img.shields.io/badge/Colab-Notebook?label=Colab-Notebook&color=%23FF5733&link=https%3A%2F%2Fcolab.research.google.com%2Fdrive%2F1Q2mccoc_uUUzNMseaEZMBJ0Wk2zSbBMX%3Fusp%3Dsharing)](https://colab.research.google.com/drive/1Q2mccoc_uUUzNMseaEZMBJ0Wk2zSbBMX?usp=sharing)
 
 
 # Mushroom Classifier Project 🍄🤖

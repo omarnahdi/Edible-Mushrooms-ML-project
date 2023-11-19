@@ -10,7 +10,7 @@ Open for Contribution: This project is open to contributions! Whether you're a s
 
 💻 Access the Code:
 
-[Link to the Jupyter Notebook](https://colab.research.google.com/drive/1Q2mccoc_uUUzNMseaEZMBJ0Wk2zSbBMX?usp=sharing)
+[Link to the Colab Notebook](https://colab.research.google.com/drive/1Q2mccoc_uUUzNMseaEZMBJ0Wk2zSbBMX?usp=sharing)
 
 🌐 How to Contribute:
 
